@@ -2,10 +2,6 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/gofixgo/count.svg" alt="visitor badge"/></p>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gofixgo&layout=compact&hide=TSQL&theme=chartreuse-dark" height="164px">
-<img src="https://github-readme-stats.vercel.app/api?username=gofixgo&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400" height="164px">
-</div>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=gofixgo&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,7 +25,6 @@
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
