@@ -27,5 +27,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
-### &nbsp;Codewars
-https://www.codewars.com/users/flashdebugger/badges/large
+### :crossed_swords: &nbsp;Codewars
+[!codewars](https://www.codewars.com/users/flashdebugger/badges/large)
