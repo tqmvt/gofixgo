@@ -29,3 +29,9 @@
 
 ### :crossed_swords: &nbsp;Codewars
 ![codewars](https://www.codewars.com/users/flashdebugger/badges/large)
+
+<div align="right">
+  <br>
+  <a href="https://gist.github.com/gofixgo/" target="__blank"> :octocat: </a>
+  <br>
+</div>
