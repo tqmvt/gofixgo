@@ -29,7 +29,7 @@
 
 ### :crossed_swords: &nbsp;Codewars
 
-<a href="https://gist.github.com/gofixgo/" target="__blank">![codewars](https://www.codewars.com/users/flashdebugger/badges/micro)</a>
+<a href="https://www.codewars.com/users/flashdebugger" target="__blank">![codewars](https://www.codewars.com/users/flashdebugger/badges/micro)</a>
 
 <div align="right">
   <br>
