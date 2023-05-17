@@ -29,12 +29,12 @@
 
 ### :crossed_swords: &nbsp;Codewars
 
-<a href="https://www.codewars.com/users/flashdebugger" target="__blank">
+<a href="https://www.codewars.com/users/flashdebugger" target="_blank">
   <img src="https://www.codewars.com/users/flashdebugger/badges/micro" alt="codewars" />
 </a>
 
 <div align="right">
   <br>
-  <a href="https://gist.github.com/gofixgo/" target="__blank"> :octocat: </a>
+  <a href="https://gist.github.com/gofixgo/" target="_blank"> :octocat: </a>
   <br>
 </div>
