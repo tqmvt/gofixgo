@@ -29,7 +29,9 @@
 
 ### :crossed_swords: &nbsp;Codewars
 
-<a href="https://www.codewars.com/users/flashdebugger" target="__blank">![codewars](https://www.codewars.com/users/flashdebugger/badges/micro)</a>
+<a href="https://www.codewars.com/users/flashdebugger" target="__blank">
+  <img src="https://www.codewars.com/users/flashdebugger/badges/micro" alt="codewars" />
+</a>
 
 <div align="right">
   <br>
