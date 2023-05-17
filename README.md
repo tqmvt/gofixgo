@@ -28,7 +28,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
 ### :crossed_swords: &nbsp;Codewars
-![codewars](https://www.codewars.com/users/flashdebugger/badges/micro)
+[![codewars](https://www.codewars.com/users/flashdebugger/badges/micro)](https://www.codewars.com/users/flashdebugger)
 
 <div align="right">
   <br>
